@@ -98,8 +98,8 @@
           <q-card-section>
             <center>
             <div class="text-h6 sec">Hallo, Welcome to</div>
-            <div class="text-h4 main">EZMath 
-               <q-btn color="primary" label="go" @click="leftDrawerOpen = !leftDrawerOpen" /></div> <br>
+            <div class="text-h4 main"><img src="~assets/icon-trans.png" style="width: 150px;"> 
+               <q-btn style="margin-top: -50px" color="primary" label="go" @click="leftDrawerOpen = !leftDrawerOpen" /></div> <br>
            
             </center>
           </q-card-section>
